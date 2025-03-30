@@ -1,0 +1,30 @@
+# Descrição do Bug: Redirecionamento ao selecionar qualidade de video nas videoaulas
+
+## Descrição
+
+Ao alterar a qualidade dos videos nas videoaulas, a plataforma redireciona automaticamente para a próxima aula.
+
+## Como Reproduzir
+
+1.  Vá para o player de vídeo da videoaula.
+2.  Clique em 'auto' nas configurações de qualidade.
+3.  Role para baixo e selecione a qualidade desejada.
+
+## Comportamento Inesperado (Bug)
+
+A plataforma redireciona para a próxima aula.
+
+## Comportamento Esperado
+
+A qualidade do vídeo deve mudar sem reiniciar o player ou redirecionar para outra aula.
+
+## Detalhes do Ambiente
+
+* **Sistema Operacional:** Windows 10
+* **Navegador:** Edge
+* **Versão do Navegador:** 130.0.2849.46
+* **Dispositivo Móvel:** N/A
+
+## Contexto Adicional
+
+* N/A
